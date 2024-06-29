@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/User/Desktop/manim/media/videos/try/1080p60/partial_movie_files/MovingCircle/3977891868_1342536677_223132457.mp4'
+file 'file:C:/Users/User/Desktop/manim/media/videos/try/1080p60/partial_movie_files/MovingCircle/2852726489_3890345977_365690914.mp4'
+file 'file:C:/Users/User/Desktop/manim/media/videos/try/1080p60/partial_movie_files/MovingCircle/2852726489_39692879_4084595033.mp4'
+file 'file:C:/Users/User/Desktop/manim/media/videos/try/1080p60/partial_movie_files/MovingCircle/2852726489_3890345977_969379794.mp4'
