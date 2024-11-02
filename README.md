@@ -11,3 +11,5 @@ There are lots of issues, and this is really just here for documentation purpose
 I don't expect this to be productive for anyone around.
 
 [![Video Title](https://i.ytimg.com/vi/sdSRs2XIhaQ/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IBMoKDAP&rs=AOn4CLC53_fFBWFv_Xo7smR9H_9_KE_enA)](https://www.youtube.com/watch?v=sdSRs2XIhaQ)
+
+Link : https://www.youtube.com/watch?v=sdSRs2XIhaQ&t=1s
